@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/extra-apps/archive/js/archive_bild/static/css/main.bb254984.css",
-    "main.js": "/extra-apps/archive/js/archive_bild/static/js/main.dd042055.js",
+    "main.js": "/extra-apps/archive/js/archive_bild/static/js/main.d187dd51.js",
     "static/media/rotation.png": "/extra-apps/archive/js/archive_bild/static/media/rotation.23f9e6a8f3e160efa21e.png",
     "static/media/filter.png": "/extra-apps/archive/js/archive_bild/static/media/filter.f124c197c2dbfa07413e.png",
     "static/media/magnifier.png": "/extra-apps/archive/js/archive_bild/static/media/magnifier.31cbd07f595dad33129d.png",
@@ -10,10 +10,10 @@
     "static/media/inbox-icon.png": "/extra-apps/archive/js/archive_bild/static/media/inbox-icon.1be720812875a25157af.png",
     "index.html": "/extra-apps/archive/js/archive_bild/index.html",
     "main.bb254984.css.map": "/extra-apps/archive/js/archive_bild/static/css/main.bb254984.css.map",
-    "main.dd042055.js.map": "/extra-apps/archive/js/archive_bild/static/js/main.dd042055.js.map"
+    "main.d187dd51.js.map": "/extra-apps/archive/js/archive_bild/static/js/main.d187dd51.js.map"
   },
   "entrypoints": [
     "static/css/main.bb254984.css",
-    "static/js/main.dd042055.js"
+    "static/js/main.d187dd51.js"
   ]
 }
